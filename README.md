@@ -23,4 +23,5 @@ Models used for relative depth estimation are as follows:
 ## For Inference and Testing Models 
 The models selected were tested in the selected hardware to check its utility in a Real-Time Environment
 - Jetson Nano Developer Kit 4GB
-  - (Add link to downloads)
+  - [Ubuntu 20 for Jetson Nano](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) with preinstalled requirements
+  - 

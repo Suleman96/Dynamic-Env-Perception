@@ -1,5 +1,5 @@
 # Dynamic Environment Perception for Autonomous System: Real-Time Approach to Obstacle Detection
-This repository contains the necessary codes information and algorithm collected for obstacle detection
+This repository contains the necessary information and algorithm collected for obstacle detection using a monocular camera.
 
 
 # Appearance Based Detection
